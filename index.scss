@@ -1,0 +1,24 @@
+.LineChart {
+  .line {
+    stroke: #757575;
+    stroke-width: 2;
+    fill: none;
+  }
+
+  .area {
+    fill: #00C400;
+    opacity: .3;
+  }
+
+  .point {
+    fill: #00C400;
+  }
+
+  .domain {
+    stroke: #ccc;
+  }
+
+  path {
+    fill: none;
+  }
+}
