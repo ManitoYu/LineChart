@@ -25,7 +25,7 @@ Because of using them frequently, so I'm used to them.
 
 ## What is it like
 
-[LineChart](/LineChart.png)
+![LineChart](LineChart.png)
 
 ## License
 
